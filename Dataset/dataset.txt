@@ -1,0 +1,9 @@
+Dataset Name: boAt Sales Analytics
+
+Source: Kaggle
+https://www.kaggle.com/datasets/arjunguptadatanalyst/boat-sales-analytics-dataset-arjun-gupta
+Note:
+The original dataset is not included in this repository
+because of its large file size and only sales.csv is large others are uploaded.
+
+Download the dataset from the Kaggle link above.
