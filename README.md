@@ -18,7 +18,7 @@ I also developed an interactive Power BI dashboard to visualize important busine
 
 - Analyzed a retail sales dataset containing approximately 975K sales records.
 - Worked with 5 interconnected relational tables.
-- Wrote 50+ SQL queries to solve business problems.
+- Wrote SQL queries to solve business problems.
 - Performed data exploration and data-quality checks.
 - Analyzed revenue, profitability, customers, products, and sales channels.
 - Developed an interactive Power BI dashboard with KPIs, charts, maps, and slicers.
